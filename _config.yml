@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhi Liu"
+  name             : "Zhi Liu (刘至)"
   avatar           : "avatar.png"
   bio              : "Third-year PhD Student at Cornell Tech"
   location         : "New York, NY, USA"
@@ -99,7 +99,7 @@ author:
   github           : "ZhiLiu724"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "zhil_photos"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :

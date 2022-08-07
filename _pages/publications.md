@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Working Paper
 
-{% include base_path %}
+1. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Refereed Conference Proceedings
+
+1. Test-optional Policies: Overcoming Strategic Behavior and Informational Gaps [[arXiv](https://arxiv.org/abs/2107.08922),[talk](https://www.youtube.com/watch?v=GbYDhy3h8NI)]
+
+   Zhi Liu and Nikhil Garg
+
+   *AAAI/ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO‘21)*
