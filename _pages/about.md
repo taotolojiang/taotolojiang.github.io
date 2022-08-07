@@ -12,4 +12,4 @@ Hello! I am a third-year PhD student of Operations Research at Cornell Tech, whe
 
 
 
-Previously, I obtained my BE in Industrial Engineering from [Tsinghua University](https://www.ie.tsinghua.edu.cn/eng/) in 2020.
+Previously, I obtained my BE in Industrial Engineering from [Tsinghua University](https://www.ie.tsinghua.edu.cn/eng/) in 2020, with a Minor in Applied Statistics.
