@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Zhi Liu"
-  avatar           : "avatar.jpeg"
+  avatar           : "avatar.png"
   bio              : "Third-year PhD Student at Cornell Tech"
-  location         : "New York City"
+  location         : "New York, NY, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dU2KmFYAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ZhiLiu724"
   google_plus      :
   keybase          :
   instagram        :
