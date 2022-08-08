@@ -20,12 +20,7 @@ Teaching experience
   
 - Teaching assistant for [ORIE 5355, Applied Data Science: Decision-Making Beyond Prediction / Fall 2022](https://classes.cornell.edu/browse/roster/FA22/class/ORIE/5355)
 
-
-Talks
-======
-- 
-
 Skills
 ======
 
-* 
+* Programming: Python, R, LaTeX, Gurobi, Stan
