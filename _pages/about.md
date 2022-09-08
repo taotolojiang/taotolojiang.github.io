@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third-year PhD student of Operations Research at [Cornell Tech](https://www.tech.cornell.edu/), where I am lucky to be advised by Professor [Nikhil Garg](https://gargnikhil.com/). My research interest lies in the study of societal systems using mechanism design and data science/machine learning techniques, to improve their efficiency and promote equitable usage. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922) and [311 systems](https://arxiv.org/abs/2204.08620).
+Hello! I am a third-year PhD student of Operations Research at [Cornell Tech](https://www.tech.cornell.edu/), where I am lucky to be advised by Professor [Nikhil Garg](https://gargnikhil.com/). 
+
+
+
+My research interest lies in the study of societal systems using mechanism design and data science/machine learning techniques, in order to improve their efficiency and promote equitable usage. I am particularly fascinated by people's behavioral patterns in different settings and the means to understand them. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922) and [311 systems](https://arxiv.org/abs/2204.08620).
 
 
 

@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2016 - 2020: B.E. in Industrial Engineering, Tsinghua University
 * 2020 - present: Ph.D. student in Operations Research, Cornell University/Cornell Tech
+* 2016 - 2020: B.E. in Industrial Engineering, Tsinghua University
 
 Teaching experience
 ======
@@ -23,4 +23,5 @@ Teaching experience
 Skills
 ======
 
-* Programming: Python, R, LaTeX, Gurobi, Stan
+* Programming: Python, R, LaTeX
+* Modeling: Gurobi, Stan
