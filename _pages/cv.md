@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version (updated September 2022)](files/cv.pdf)
+
 Education
 ======
 * 2020 - present: Ph.D. student in Operations Research, Cornell University/Cornell Tech
