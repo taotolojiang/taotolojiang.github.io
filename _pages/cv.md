@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: CV
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version (updated September 2022)](files/cv.pdf)
+[PDF version (updated September 2022)](../files/cv.pdf)
 
 Education
 ======
