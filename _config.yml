@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhi Liu"
+title                    : "Tao Jiang"
 title_separator          : "-"
-name                     : &name "Zhi Liu"
-description              : &description "PhD student at Cornell Tech"
-url                      : https://ZhiLiu724.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tao Jiang"
+description              : &description "PhD student at Cornell University"
+url                      : https://taotolojiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZhiLiu724/ZhiLiu724.github.io"
+repository               : "taotolojiang/taotolojiang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhi Liu 刘至"
-  avatar           : "avatar.png"
-  bio              : "Third-year PhD Student at Cornell Tech."
-  location         : "New York, NY, USA"
+  name             : "Tao Jiang 姜陶"
+  avatar           : "tao.jpg"
+  bio              : "Third-year PhD Student at Cornell University."
+  location         : "Ithaca, NY, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=dU2KmFYAAAAJ&hl=en"
-  email            : "zl724@cornell.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=31ZXjswAAAAJ&hl=en&oi=ao"
+  email            : "tj293@cornell.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : "zhil_photos"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ZhiLiu724"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
