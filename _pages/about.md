@@ -8,16 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third-year PhD student of Operations Research at [Cornell Tech](https://www.tech.cornell.edu/), where I am lucky to be advised by Professor [Nikhil Garg](https://gargnikhil.com/). 
+Hello! I am a third-year PhD student of Operations Research at [Cornell University](https://www.orie.cornell.edu/orie), where I am lucky to be advised by Professor [Damek Davis](https://damek.github.io/). I am interested in studying the mathematics of data science, especially the interplay of optimization, statistics, machine learning and numerical linear algebra. During my Ph.D., Damek and I developed and analyzed a fast condition-number-free algorithm for a wide family of non-smooth non-convex optimization problems. I am very fortunate to be mentored by master advisor Professor [Steve Vavasis](https://uwaterloo.ca/scholar/vavasis/home), and we are have been studying the mathematics of sum-of-norms clustering. I also have the privilege to work with Professor [Anil Damle](https://www.cs.cornell.edu/~damle/), and we have been exploring the stereotyping problems in spectral embeddings.
 
 
-
-My research interest lies in the study of societal systems using mechanism design and data science/machine learning techniques, in order to improve their efficiency and promote equitable usage. I am particularly fascinated by people's behavioral patterns in different settings and the means to understand them. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922) and [311 systems](https://arxiv.org/abs/2204.08620).
-
+I received my degree of MMath in Combinatorics and Optimization at University of Waterloo, where I had the privilege to be advised Professor [Steve Vavasis](https://uwaterloo.ca/scholar/vavasis/home) on sum-of-norms clustering for my [thesis](https://uwspace.uwaterloo.ca/handle/10012/16279). We have prvoed the [recovery theory](https://www.jmlr.org/papers/volume21/19-218/19-218.pdf), proposed an [early-stopping test](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=31ZXjswAAAAJ&citation_for_view=31ZXjswAAAAJ:d1gkVwhDpl0C) and invented leapfrog distance to boost the performance of sum-of-norms clustering. Prior to my graduate studies, I obtained my BEng in Engineering Systems and Design at Singapore University of Technology and Design, where I met and worked with several wonderful professors including Professor [Peter Jackson](https://esd.sutd.edu.sg/people/faculty/peter-jackson), [Selin Ahipasaoglu](https://www.southampton.ac.uk/people/5y9p9p/doctor-selin-ahipasaoglu), [Sergey Kushnarev](https://engineering.jhu.edu/faculty/sergey-kushnarev/) and [James Wan](https://esd.sutd.edu.sg/people/faculty/james-wan).
 
 
-Previously, I obtained my BE in Industrial Engineering from [Tsinghua University](https://www.ie.tsinghua.edu.cn/eng/) in 2020, with a Minor in Applied Statistics. During my undergrad, I worked on various things including application of network interdiction problem, scheduling in hospitals, and a numerical solver for PDEs.
-
-
-
-Outside of office, you will most likely find me hiking, rock climbing/working out, or taking photos of the beautiful world around me.
+Outside of office, I enjoy hiking, rock climbing, and taking photos of the beautiful people around me.
