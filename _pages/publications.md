@@ -7,12 +7,21 @@ author_profile: true
 
 ## Working Paper
 
-1. **[Equity in Resident Crowdsourcing: Measuring Under-reporting without Ground Truth Data](https://dl.acm.org/doi/abs/10.1145/3490486.3538283)** [[arXiv](https://arxiv.org/abs/2204.08620),[talk by Nikhil](https://www.youtube.com/watch?v=FxBpoGpn_6Q),[poster](files/Trees_poster.pdf)]
+1. **[Leapfrog distance: a new family of features that strengthens the recovery of sum-of-norms clustering]**
+2. **[A condition-number-free algorithm for a wide family of nonconvex nonsmooth problems]**
 
-   Zhi Liu and Nikhil Garg, Conference version appeared in *the 23rd ACM Conference on Economics and Computation (EC ‘22)*
+## Journal Publications
 
-## Refereed Conference Proceedings
+1. **[Recovery of a mixture of Gaussians by sum-of-norms clustering]**[[JMLR](https://www.jmlr.org/papers/volume21/19-218/19-218.pdf) [talk at ICCOPT 2019](files/mixture_of_Gaussians_SON_TJiang.pdf)]
 
-1. [**Test-optional Policies: Overcoming Strategic Behavior and Informational Gaps** ](https://dl.acm.org/doi/abs/10.1145/3465416.3483293)[[arXiv](https://arxiv.org/abs/2107.08922),[talk](https://www.youtube.com/watch?v=GbYDhy3h8NI),[poster](files/Test_optional_poster.pdf)]
+Jiang, T., Vavasis, S., & Zhai, C. W. (2020). Recovery of a mixture of gaussians by sum-of-norms clustering. Journal of Machine Learning Research, 21(225), 1-16.
 
-   Zhi Liu and Nikhil Garg, in *AAAI/ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ‘21)*
+2. **[An inexact l2-norm penalty method for cardinality constrained portfolio optimization]**[[Taylor & Francis](https://www.tandfonline.com/doi/abs/10.1080/0013791X.2019.1636169)
+
+Jiang, T., Wang, S., Zhang, R., Qin, L., Wu, J., Wang, D., & Ahipasaoglu, S. D. (2019). An inexact l 2-norm penalty method for cardinality constrained portfolio optimization. The Engineering Economist, 64(3), 289-297.
+
+## Preprints
+1.  **[Certifying clusters from sum-of-norms clustering]**
+[[arXiv](https://arxiv.org/pdf/2006.11355.pdf)** [talk at ICCOPT 2022](files/certifying_clusters_SON_TJiang_ICCOPT22.pdf)]
+
+Jiang, T., & Vavasis, S. (2020). Certifying clusters from sum-of-norms clustering. arXiv preprint arXiv:2006.11355.
