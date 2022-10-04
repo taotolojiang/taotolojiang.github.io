@@ -7,25 +7,25 @@ author_profile: true
 
 ## Working Paper
 
-**1. Leapfrog distance: a new family of features that strengthens the recovery of sum-of-norms clustering** [talk at SIAM MDS22]
+**1. Leapfrog distance: a new family of features that strengthens the recovery of sum-of-norms clustering** [talk at SIAM MDS22]<br />
 Tao Jiang, Samuel Tan, Stephen Vavasis
 
-**2. A condition-number-free algorithm for a wide family of nonconvex nonsmooth problems**
+**2. A condition-number-free algorithm for a wide family of nonconvex nonsmooth problems**<br />
 Tao Jiang, Damek Davis
 
 ## Journal Publications
 
-**1. Recovery of a mixture of Gaussians by sum-of-norms clustering** [[paper](https://www.jmlr.org/papers/volume21/19-218/19-218.pdf) [talk at ICCOPT 2019](files/mixture_of_Gaussians_SON_TJiang.pdf)]
-Tao Jiang, Stephen Vavasis, Sabrina Chen Wen Zhai
+**1. Recovery of a mixture of Gaussians by sum-of-norms clustering** [[paper](https://www.jmlr.org/papers/volume21/19-218/19-218.pdf) [talk at ICCOPT 2019](files/mixture_of_Gaussians_SON_TJiang.pdf)]<br />
+Tao Jiang, Stephen Vavasis, Sabrina Chen Wen Zhai<br />
 Journal of Machine Learning Research (2020)
 
-**2. An inexact l2-norm penalty method for cardinality constrained portfolio optimization** [paper](https://www.tandfonline.com/doi/abs/10.1080/0013791X.2019.1636169)
-Tao Jiang, Shuo Wang, Ruochen Zhang, Lang Qin, Jinglian Wu, Delin Wang, Selin Damla Ahipasaoglu
+**2. An inexact l2-norm penalty method for cardinality constrained portfolio optimization** [paper](https://www.tandfonline.com/doi/abs/10.1080/0013791X.2019.1636169)<br />
+Tao Jiang, Shuo Wang, Ruochen Zhang, Lang Qin, Jinglian Wu, Delin Wang, Selin Damla Ahipasaoglu<br />
 The Engineering Economist (2019)
 
 ## Preprints
 **1. Certifying clusters from sum-of-norms clustering**
-[[paper](https://arxiv.org/pdf/2006.11355.pdf) [talk at ICCOPT 2022](files/certifying_clusters_SON_TJiang_ICCOPT22.pdf)]
-Tao Jiang, Stephen Vavasis
+[[paper](https://arxiv.org/pdf/2006.11355.pdf) [talk at ICCOPT 2022](files/certifying_clusters_SON_TJiang_ICCOPT22.pdf)]<br />
+Tao Jiang, Stephen Vavasis<br />
 Manuscript (2020)
 
