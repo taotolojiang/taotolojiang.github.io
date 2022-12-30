@@ -25,6 +25,7 @@ The Engineering Economist (2019)
 **1. A linearly convergent Gauss-Newton subgradient method for ill-conditioned problems**
 [[paper](https://arxiv.org/abs/2212.13278)]<br />
 Tao Jiang, Damek Davis
+Manuscript (2022)
 
 **2. Certifying clusters from sum-of-norms clustering**
 [[paper](https://arxiv.org/pdf/2006.11355.pdf) [talk at ICCOPT 2022](files/certifying_clusters_SON_TJiang_ICCOPT22.pdf)]<br />
