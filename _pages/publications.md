@@ -5,10 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Working Paper
+## Working Papers
 
-**1. Leapfrog distance: a new family of features that strengthens the recovery of sum-of-norms clustering** [talk at SIAM MDS22]<br />
-Tao Jiang, Samuel Tan, Stephen Vavasis
+**1. Infeasibility detection in primal dual hybrid gradient method** <br />
+Tao Jiang, Walaa Moursi, Stephen Vavasis
+
+**2. Spectral clustering and variance reduction in graph** <br />
+Anil Damle, Tao Jiang, Abhay Singh
+
+**3. First-order methods converge in deep neural network** <br />
+Vasileios Charisopoulos, Damek Davis, Tao Jiang
 
 ## Journal Publications
 
@@ -22,12 +28,16 @@ The Engineering Economist (2019)
 
 ## Preprints
 
-**1. A linearly convergent Gauss-Newton subgradient method for ill-conditioned problems**
+**1. Re-embedding data to strengthen recovery guarantees of clustering** [[paper](https://arxiv.org/abs/2301.10901) [talk at SIAM MDS22 and Informs Annual meeting 2022](files/leapfrog_TJiang_informs.pdf)]<br />
+Tao Jiang, Samuel Tan, Stephen Vavasis<br />
+Manuscript (2023)
+
+**2. A linearly convergent Gauss-Newton subgradient method for ill-conditioned problems**
 [[paper](https://arxiv.org/abs/2212.13278)]<br />
 Tao Jiang, Damek Davis<br />
 Manuscript (2022)
 
-**2. Certifying clusters from sum-of-norms clustering**
+**3. Certifying clusters from sum-of-norms clustering**
 [[paper](https://arxiv.org/pdf/2006.11355.pdf) [talk at ICCOPT 2022](files/certifying_clusters_SON_TJiang_ICCOPT22.pdf)]<br />
 Tao Jiang, Stephen Vavasis<br />
 Manuscript (2020)
