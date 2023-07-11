@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third-year PhD student of Operations Research at [Cornell University](https://www.orie.cornell.edu/orie), where I am lucky to be advised by Professor [Damek Davis](https://damek.github.io/). I am currently doing an internship at Meta AI, working with my wonderful mentor [Lin Xiao] (https://linxiaolx.github.io/index.html).
+Hello! I am a third-year PhD student of Operations Research at [Cornell University](https://www.orie.cornell.edu/orie), where I am lucky to be advised by Professor [Damek Davis](https://damek.github.io/). I am currently doing an internship at Meta AI, working with my wonderful mentor [Lin Xiao](https://linxiaolx.github.io/index.html).
 
 I am interested in studying the mathematics of data science, especially the interplay of optimization, statistics, machine learning and numerical linear algebra. During my PhD, Damek and I have been developing and analyzing a fast condition-number-free algorithm for a wide family of non-smooth non-convex optimization problems. I am very fortunate to be mentored by Professor [Steve Vavasis](https://uwaterloo.ca/scholar/vavasis/home), and we are studying the mathematics of sum-of-norms clustering. I also have the privilege to work with Professor [Anil Damle](https://www.cs.cornell.edu/~damle/), and we have been exploring the stereotyping problems in spectral embeddings.
 
