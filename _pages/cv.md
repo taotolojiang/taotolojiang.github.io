@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- <!-- {% include base_path %}
  -->
-[PDF version (updated September 2022)](../files/Tao_Jiang_CV.pdf) -->
+[PDF version (updated October 2023)](../files/Tao_Jiang_CV.pdf) -->
 
 Education
 ======

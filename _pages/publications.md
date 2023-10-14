@@ -7,14 +7,8 @@ author_profile: true
 
 ## Working Papers
 
-**1. Infeasibility detection in primal dual hybrid gradient method** <br />
-Tao Jiang, Walaa Moursi, Stephen Vavasis
-
-**2. Spectral clustering and variance reduction in graph** <br />
+**1. Spectral clustering and variance reduction in graph** <br />
 Anil Damle, Tao Jiang, Abhay Singh
-
-**3. First-order methods converge in deep neural network** <br />
-Vasileios Charisopoulos, Damek Davis, Tao Jiang
 
 ## Journal Publications
 
@@ -28,16 +22,19 @@ The Engineering Economist (2019)
 
 ## Preprints
 
-**1. Re-embedding data to strengthen recovery guarantees of clustering** [[paper](https://arxiv.org/abs/2301.10901) [talk at SIAM MDS22 and Informs Annual meeting 2022](files/leapfrog_TJiang_informs.pdf)]<br />
+**1. Range of the displacement operator of PDHG with applications to quadratic and conic programming** [[paper](https://arxiv.org/abs/2309.15009) [talk at SIAM OP23](files/PDHG_OP23_Tao.pdf)]<br />
+Tao Jiang, Walaa Moursi, Stephen Vavasis
+
+**2. Re-embedding data to strengthen recovery guarantees of clustering** [[paper](https://arxiv.org/abs/2301.10901) [talk at SIAM MDS22 and Informs Annual meeting 2022](files/leapfrog_TJiang_informs.pdf)]<br />
 Tao Jiang, Samuel Tan, Stephen Vavasis<br />
 Manuscript (2023)
 
-**2. A linearly convergent Gauss-Newton subgradient method for ill-conditioned problems**
+**3. A linearly convergent Gauss-Newton subgradient method for ill-conditioned problems**
 [[paper](https://arxiv.org/abs/2212.13278)]<br />
 Tao Jiang, Damek Davis<br />
 Manuscript (2022)
 
-**3. Certifying clusters from sum-of-norms clustering**
+**4. Certifying clusters from sum-of-norms clustering**
 [[paper](https://arxiv.org/pdf/2006.11355.pdf) [talk at ICCOPT 2022](files/certifying_clusters_SON_TJiang_ICCOPT22.pdf)]<br />
 Tao Jiang, Stephen Vavasis<br />
 Manuscript (2020)

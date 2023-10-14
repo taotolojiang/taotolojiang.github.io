@@ -20,4 +20,5 @@ Prior to my graduate studies, I obtained my BEng in Engineering Systems and Desi
 <!-- where I met and worked with several wonderful professors including Professor [Peter Jackson](https://esd.sutd.edu.sg/people/faculty/peter-jackson), [Selin Ahipasaoglu](https://www.southampton.ac.uk/people/5y9p9p/doctor-selin-ahipasaoglu), [Sergey Kushnarev](https://engineering.jhu.edu/faculty/sergey-kushnarev/) and [James Wan](https://esd.sutd.edu.sg/people/faculty/james-wan). -->
 
 
-Outside of office, I enjoy hiking, rock climbing, and taking photos of the beautiful people around me.
+Outside of office, I enjoy hiking, rock climbing and going out for adventures with my partner Zhi (click out his [instagram](https://www.instagram.com/zhil_photos/) for beautiful photos we took during our trips). If you have a keen interest in promoting fairness within societal systems and are contemplating potential solutions, please check out some fascinating work by [Zhi](https://zhiliu724.github.io/) and see how he identifies and addresses disparities using quantitative methods.
+
