@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a fifth-year PhD candidate of Operations Research at [Cornell University](https://www.orie.cornell.edu/orie) advised by Professor [Damek Davis](https://damek.github.io/). I am actively working with my wonderful mentors [Lin Xiao](https://linxiaolx.github.io/index.html) and [Sho Yaida](https://www.shoyaida.com/) from FAIR to develop efficient optimizers, study scaling laws and analyze natural data structure in the context of deep learning. 
+Hello! I am a fifth-year PhD candidate at Cornell ORIE advised by Professor [Damek Davis](https://damek.github.io/). I am actively working with my wonderful mentors [Lin Xiao](https://linxiaolx.github.io/index.html) and [Sho Yaida](https://www.shoyaida.com/) from FAIR to develop efficient optimizers, study scaling laws and analyze natural data structure in the context of deep learning. 
 
 
 I received my degree of MMath in Combinatorics and Optimization at University of Waterloo, where I had the privilege to be advised Professor [Steve Vavasis](https://uwaterloo.ca/scholar/vavasis/home) on sum-of-norms clustering for my [thesis](https://uwspace.uwaterloo.ca/handle/10012/16279).
