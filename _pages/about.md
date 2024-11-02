@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third-year PhD student of Operations Research at [Cornell University](https://www.orie.cornell.edu/orie), where I am lucky to be advised by Professor [Damek Davis](https://damek.github.io/). I am currently doing an internship at Meta AI, working with my wonderful mentor [Lin Xiao](https://linxiaolx.github.io/index.html) to develop efficient optimizers for LLM and vision transformers.
-
-I am interested in studying the mathematics of learning, especially the interplay of optimization, statistics, machine learning and numerical linear algebra. During my PhD, Damek and I have been developing and analyzing a fast condition-number-free algorithm for a wide family of non-smooth non-convex optimization problems. I am very fortunate to be mentored by Professor [Steve Vavasis](https://uwaterloo.ca/scholar/vavasis/home), and we are studying the mathematics of sum-of-norms clustering. 
+Hello! I am a fifth-year PhD candidate of Operations Research at [Cornell University](https://www.orie.cornell.edu/orie) advised by Professor [Damek Davis](https://damek.github.io/). I am actively working with my wonderful mentors [Lin Xiao](https://linxiaolx.github.io/index.html) and [Sho Yaida](https://www.shoyaida.com/) from FAIR to develop efficient optimizers, study scaling laws and analyze natural data structure in the context of deep learning. 
 
 
-I received my degree of MMath in Combinatorics and Optimization at University of Waterloo, where I had the privilege to be advised Professor [Steve Vavasis](https://uwaterloo.ca/scholar/vavasis/home) on sum-of-norms clustering for my [thesis](https://uwspace.uwaterloo.ca/handle/10012/16279). 
+I received my degree of MMath in Combinatorics and Optimization at University of Waterloo, where I had the privilege to be advised Professor [Steve Vavasis](https://uwaterloo.ca/scholar/vavasis/home) on sum-of-norms clustering for my [thesis](https://uwspace.uwaterloo.ca/handle/10012/16279).
 <!-- We have prvoed the [recovery theory](https://www.jmlr.org/papers/volume21/19-218/19-218.pdf), proposed an [early-stopping test](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=31ZXjswAAAAJ&citation_for_view=31ZXjswAAAAJ:d1gkVwhDpl0C) and invented leapfrog distance to boost the performance of sum-of-norms clustering. -->
 Prior to my graduate studies, I obtained my BEng in Engineering Systems and Design at Singapore University of Technology and Design. 
 
