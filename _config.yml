@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tao Jiang"
 title_separator          : "-"
 name                     : &name "Tao Jiang"
-description              : &description "PhD student at Cornell University"
+description              : &description "PhD candidate at Cornell University"
 url                      : https://taotolojiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taotolojiang/taotolojiang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tao Jiang 姜陶"
   avatar           : "tao.jpg"
-  bio              : "Third-year PhD Student at Cornell University."
+  bio              : "Fifth-year PhD Candidate at Cornell University."
   location         : "Ithaca, NY, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

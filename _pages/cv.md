@@ -19,11 +19,16 @@ Education
 
 Industry experience
 ======
+* 2024 Summer: Rsearch scientist intern hosted by Sho Yaida, FAIR, Meta AI, Menlo Park
+* 2023 Summer-Fall: Rsearch scientist intern hosted by Lin Xiao, FAIR, Meta AI, Seattle
 * 2017 Summer: Data Science Analyst, GIC Private Limited, Singapore 
 * 2017 Summer: Client Services Analyst, Goldman Sachs, Singapore 
 
 Teaching experience
 ======
+* 2024 Fall: ORIE 6700: Statistics, Cornell University
+* 2024 Spring: SysEng 5200: Systems Analysis Behavior and Optimization, Cornell University
+* 2023 Spring: SysEng 5200: Systems Analysis Behavior and Optimization, Cornell University
 * 2022 Fall: ORIE 5380, CS 5727: Optimization Methods, Cornell Tech
 * 2022 Spring: ORIE 4740 Statistical data mining, Cornell University
 * 2021 Fall: ORIE 4741 Big Messy Data, Cornell University
@@ -52,5 +57,5 @@ Award
 Skills
 ======
 
-* Programming: Python, Julia, R, LaTeX
-* Modeling: Gurobi, AMPL
+* Programming: Python, Pytorch, Julia, R, LaTeX
+<!-- * Modeling: Gurobi, AMPL -->
