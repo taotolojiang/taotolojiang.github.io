@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tao Jiang"
 title_separator          : "-"
 name                     : &name "Tao Jiang"
-description              : &description "PhD candidate at Cornell University"
+description              : &description "Postdoc at FAIR"
 url                      : https://taotolojiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taotolojiang/taotolojiang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tao Jiang 姜陶"
   avatar           : "tao.jpg"
-  bio              : "Fifth-year PhD Candidate at Cornell University."
-  location         : "Ithaca, NY, USA"
+  bio              : "Postdoc at FAIR."
+  location         : "Seattle, WA, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=31ZXjswAAAAJ&hl=en&oi=ao"
-  email            : "tj293@cornell.edu"
+  email            : "{first name}{last name}@meta.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

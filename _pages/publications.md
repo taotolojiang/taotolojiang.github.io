@@ -5,11 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Working Papers
-
-**1. Spectral clustering and variance reduction in graph** <br />
-Anil Damle, Tao Jiang, Abhay Singh
-
 ## Journal Publications
 
 **1. Recovery of a mixture of Gaussians by sum-of-norms clustering** [[paper](https://www.jmlr.org/papers/volume21/19-218/19-218.pdf) [talk at ICCOPT 2019](files/mixture_of_Gaussians_SON_TJiang.pdf)]<br />
@@ -22,20 +17,21 @@ The Engineering Economist (2019)
 
 ## Preprints
 
-**1. Range of the displacement operator of PDHG with applications to quadratic and conic programming** [[paper](https://arxiv.org/abs/2309.15009) [talk at SIAM OP23](files/PDHG_OP23_Tao.pdf)]<br />
+**1. Stochastic Approximation with Block Coordinate Optimal Stepsizes**[[paper](https://arxiv.org/abs/2507.08963)]<br />
+Tao Jiang, Lin Xiao
+
+**2. Range of the displacement operator of PDHG with applications to quadratic and conic programming** [[paper](https://arxiv.org/abs/2309.15009) [talk at SIAM OP23](files/PDHG_OP23_Tao.pdf)]<br />
 Tao Jiang, Walaa Moursi, Stephen Vavasis
+Revision at Mathematics of Operations Research
 
-**2. Re-embedding data to strengthen recovery guarantees of clustering** [[paper](https://arxiv.org/abs/2301.10901) [talk at SIAM MDS22 and Informs Annual meeting 2022](files/leapfrog_TJiang_informs.pdf)]<br />
+**3. Re-embedding data to strengthen recovery guarantees of clustering** [[paper](https://arxiv.org/abs/2301.10901) [talk at SIAM MDS22 and Informs Annual meeting 2022](files/leapfrog_TJiang_informs.pdf)]<br />
 Tao Jiang, Samuel Tan, Stephen Vavasis<br />
-Manuscript (2023)
 
-**3. A linearly convergent Gauss-Newton subgradient method for ill-conditioned problems**
+**4. A linearly convergent Gauss-Newton subgradient method for ill-conditioned problems**
 [[paper](https://arxiv.org/abs/2212.13278)]<br />
 Tao Jiang, Damek Davis<br />
-Manuscript (2022)
 
-**4. Certifying clusters from sum-of-norms clustering**
+**5. Certifying clusters from sum-of-norms clustering**
 [[paper](https://arxiv.org/pdf/2006.11355.pdf) [talk at ICCOPT 2022](files/certifying_clusters_SON_TJiang_ICCOPT22.pdf)]<br />
 Tao Jiang, Stephen Vavasis<br />
-Manuscript (2020)
 
