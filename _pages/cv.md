@@ -13,12 +13,13 @@ redirect_from:
 
 Education
 ======
-* 2020 - present: Ph.D. student in Operations Research, Cornell University
+* 2020 - 2025: Ph.D. student in Operations Research, Cornell University
 * 2018 - 2020: MMath. in Combinatorics and Optimization, University of Waterloo
 * 2015 - 2018: BEng. in Engineering Systems and Design, Singapore University of Technology and Design
 
 Industry experience
 ======
+* 2025 July-present: Postdoctoral researcher at FAIR
 * 2024 Summer: Rsearch scientist intern hosted by Sho Yaida, FAIR, Meta AI, Menlo Park
 * 2023 Summer-Fall: Rsearch scientist intern hosted by Lin Xiao, FAIR, Meta AI, Seattle
 * 2017 Summer: Data Science Analyst, GIC Private Limited, Singapore 

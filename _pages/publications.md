@@ -17,7 +17,7 @@ The Engineering Economist (2019)
 
 ## Preprints
 
-**1. Stochastic Approximation with Block Coordinate Optimal Stepsizes**[[paper](https://arxiv.org/abs/2507.08963)]<br />
+**1. Stochastic Approximation with Block Coordinate Optimal Stepsizes** [[paper](https://arxiv.org/abs/2507.08963)]<br />
 Tao Jiang, Lin Xiao
 
 **2. Range of the displacement operator of PDHG with applications to quadratic and conic programming** [[paper](https://arxiv.org/abs/2309.15009) [talk at SIAM OP23](files/PDHG_OP23_Tao.pdf)]<br />
