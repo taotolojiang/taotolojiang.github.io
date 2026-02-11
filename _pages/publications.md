@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 **Stochastic Approximation with Block Coordinate Optimal Stepsizes** [[paper](https://arxiv.org/abs/2507.08963)]
-Tao Jiang, Lin Xiao
+Tao Jiang, Lin Xiao<br />
 Submitted to JMLR
 
 **Range of the displacement operator of PDHG with applications to quadratic and conic programming** [[paper](https://arxiv.org/abs/2309.15009) [talk at SIAM OP23](files/PDHG_OP23_Tao.pdf)]<br />
-Tao Jiang, Walaa Moursi, Stephen Vavasis
+Tao Jiang, Walaa Moursi, Stephen Vavasis<br />
 Revision at Mathematics of Operations Research
 
 **Re-embedding data to strengthen recovery guarantees of clustering** [[paper](https://arxiv.org/abs/2301.10901) [talk at SIAM MDS22 and Informs Annual meeting 2022](files/leapfrog_TJiang_informs.pdf)]<br />
