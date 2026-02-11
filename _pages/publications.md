@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Stochastic Approximation with Block Coordinate Optimal Stepsizes** [[paper](https://arxiv.org/abs/2507.08963)]
+**Stochastic Approximation with Block Coordinate Optimal Stepsizes** [[paper](https://arxiv.org/abs/2507.08963)]<br />
 Tao Jiang, Lin Xiao<br />
 Submitted to JMLR
 
