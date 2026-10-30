@@ -7,31 +7,35 @@ author_profile: true
 
 ### Optimizers for deep learning
 
+<!--
 **Optimizer Design via Fixed-Point Iterations**<br />
-Tao Jiang, Tianbao Yang, Zhiqi Bu, Yueyao Chi, Ashok Cutkosky, Aaron Defazio, Dmytro Kallusky, Lin Xiao<br />
+Tao Jiang, Tong Yang, Zhiqi Bu, Yuejie Chi, Ashok Cutkosky, Aaron Defazio, Dominik Kallusky, Lin Xiao<br />
 Working paper (2026)
 
 **Aggregate Proximal Method for Structured Stochastic Optimization: Convergence and Manifold Identification**<br />
-Kirill Golobokov, Tao Jiang, Lin Xiao<br />
+Konstantin Golobokov, Tao Jiang, Lin Xiao<br />
 Working paper (2026)
+-->
 
 **Second-Moment Stochastic Approximation Methods** [[paper](https://arxiv.org/abs/2609.36600)]<br />
 Tao Jiang, Lin Xiao<br />
 arXiv preprint arXiv:2609.36600 (2026)
 
 **Stochastic Inertial Krasnoselskii-Mann Iteration Achieves Near-Optimal Sample Complexity** [[paper](https://arxiv.org/abs/2609.28543)]<br />
-Tianbao Yang, Tao Jiang, Yueyao Chi, Ashok Cutkosky, Lin Xiao<br />
+Tong Yang, Tao Jiang, Yuejie Chi, Ashok Cutkosky, Lin Xiao<br />
 arXiv preprint arXiv:2609.28543 (2026)
 
 **Stochastic Approximation with Block Coordinate Optimal Stepsizes** [[paper](https://arxiv.org/abs/2507.08963)]<br />
 Tao Jiang, Lin Xiao<br />
 Submitted to JMLR
 
+<!--
 ### AI for Science and Science for AI
 
 **Brain Data as a Block-Importance Metric for Depth Pruning**<br />
-Salma Lotfi, Tao Jiang, Esha Saxena, Julien Raugel, Edoardo Cascardi, Andrey Gromov, Jean-Rémi King, Alex Williams, Kristin Lauter<br />
+Sanae Lotfi, Tao Jiang, Eshika Saxena, Josephine Raugel, Elisa Cascardi, Andrey Gromov, Jean-Rémi King, Adina Williams, Kristin Lauter<br />
 Working paper (2026)
+-->
 
 ### Optimization Algorithms and Theory
 
