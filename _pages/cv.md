@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<!-- <!-- {% include base_path %}
- -->
-[PDF version (updated October 2023)](../files/Tao_Jiang_CV.pdf) -->
+{% include base_path %}
+
+[PDF version (updated October 2026)]({{ base_path }}/files/Tao_Jiang_CV.pdf)
 
 Education
 ======
@@ -17,13 +17,19 @@ Education
 * 2018 - 2020: MMath. in Combinatorics and Optimization, University of Waterloo
 * 2015 - 2018: BEng. in Engineering Systems and Design, Singapore University of Technology and Design
 
+Employment
+======
+* 2025 July-present: Postdoctoral researcher at FAIR, Meta, Seattle
+
+Research internships
+======
+* 2024 Summer: Research scientist intern hosted by Sho Yaida, FAIR, Meta AI, Menlo Park
+* 2023 Summer-Fall: Research scientist intern hosted by Lin Xiao, FAIR, Meta AI, Seattle
+
 Industry experience
 ======
-* 2025 July-present: Postdoctoral researcher at FAIR
-* 2024 Summer: Rsearch scientist intern hosted by Sho Yaida, FAIR, Meta AI, Menlo Park
-* 2023 Summer-Fall: Rsearch scientist intern hosted by Lin Xiao, FAIR, Meta AI, Seattle
-* 2017 Summer: Data Science Analyst, GIC Private Limited, Singapore 
-* 2017 Summer: Client Services Analyst, Goldman Sachs, Singapore 
+* 2017 Summer: Data Science Analyst, GIC Private Limited, Singapore
+* 2017 Summer: Client Services Analyst, Goldman Sachs, Singapore
 
 Teaching experience
 ======
@@ -59,4 +65,3 @@ Skills
 ======
 
 * Programming: Python, Pytorch, Julia, R, LaTeX
-<!-- * Modeling: Gurobi, AMPL -->

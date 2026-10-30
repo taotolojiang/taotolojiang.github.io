@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a postdoctoral researcher at Foundamental AI Research (FAIR) in Meta, hosted by [Lin Xiao](https://linxiaolx.github.io/index.html). My research interests lie in the intersection of deep learning, optimization and statistics. 
+Hello! I am a postdoctoral researcher at Fundamental AI Research (FAIR) in Meta, hosted by [Lin Xiao](https://linxiaolx.github.io/index.html). My research interests lie in the intersection of deep learning, optimization and statistics. 
 
 I develop theory and methodologies to advance training and inference efficiency and performance for AI models. For training, we designed efficient and robust optimization algorithms (such as [BCOS](https://arxiv.org/pdf/2507.08963)) that achieve comparable performance as Adam but requires less memory and fewer hyper-parameters. For inference, we are developing principled approaches that prune and quantize models during training to achieve maximum inference efficiency without compromising performance.
 
